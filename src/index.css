@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans');
+body
+{
+  overflow-x:hidden;
+  background-color:#f6efea;
+  font-family: 'Martel Sans', sans-serif;
+}
+.bg-primary
+{
+  background-color:#f6efea;
+  color:#f6efea;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

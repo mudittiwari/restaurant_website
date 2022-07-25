@@ -1,0 +1,12 @@
+.comptwobox
+{
+  width:30%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .comptwobox
+  {
+    width:100%;
+    margin-top:10px;
+  }
+}
