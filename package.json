@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ReactJS on Replit, using Vite bundler",
   "main": "index.js",
-  "homepage": "https://github.com/mudittiwari/restaurant_website",
+  "homepage": "https://mudittiwari.github.io/restaurant_website/",
   "scripts": {
     "build": "vite build",
     "dev": "vite",
