@@ -10,7 +10,7 @@ function Footer()
     return (
       <div className="bg-white mt-10">
       <div className="py-16 text-center max-w-7xl mx-auto">
-        <h1 className=" text-3xl font-semibold">YONK</h1>
+        <h1 className=" text-3xl font-semibold">Restra</h1>
         <p className="w-4/5 mx-auto my-5 md:w-3/5 lg:w-2/5">
           Start working with Landrick that can provide everything you need to
           generate awareness, drive traffic, connect.
@@ -35,7 +35,7 @@ function Footer()
       </div>
       <div className="text-center py-1 max-w-7xl mx-auto border-t border-gray-200 dark:border-gray-600">
         <p className=" w-4/5 mx-auto my-5 text-sm leading-5">
-          &nbsp;@ 2022, YONK. All Rights Reserved
+          &nbsp;@ 2022, Restra. All Rights Reserved
         </p>
       </div>
     </div>
